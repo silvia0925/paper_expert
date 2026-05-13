@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+# Library data (downloaded PDFs, metadata DB, vectors)
+paper_expert-library/
+# Editor temp files
+*.swp
+*.swo
+*~
